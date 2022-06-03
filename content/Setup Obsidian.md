@@ -17,7 +17,3 @@ Please installe the following plugins
 This is a core plugin. 
 Set the template folter to :
 > templates
-
-### Consistent Attachments and Links
-This is a community Plugin
-![](Pasted%20image%2020220603100807.png)
