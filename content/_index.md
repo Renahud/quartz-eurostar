@@ -6,7 +6,7 @@ title: "Blog of Sfpd team @Eurostar Testing Conference"
 Welcome to our Quartz blog. This is a Collaborative effort of the [SFPD](SFPD.md) delegation at the Eurostar Testing Conference 2022.
 
 Members of the delegation:
-- [Virginie](Virginie)
+- [Virginie](people/Virginie.md)
 - [Renaud](people/Renaud.md)
 - [Jana](Jana)
 - [Manon](Manon)
