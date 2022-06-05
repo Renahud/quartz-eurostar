@@ -1,4 +1,6 @@
 # Setup For Using the Blog
+## Accessing the blog
+[Blog of Sfpd team @Eurostar Testing Conference (renahud.github.io)](https://renahud.github.io/quartz-eurostar/)
 
 ## Installation
 
