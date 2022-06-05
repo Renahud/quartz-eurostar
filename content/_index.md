@@ -8,9 +8,9 @@ Welcome to our Quartz blog. This is a Collaborative effort of the [SFPD](SFPD.md
 Members of the delegation:
 - [Virginie](people/Virginie.md)
 - [Renaud](people/Renaud.md)
-- [Jana](Jana)
-- [Manon](Manon)
-- [Emmanuel](Emmanuel)
+- [Jana](people/Jana.md)
+- [Manon](people/Manon.md)
+- [Emmanuel](people/Emmanuel.md)
 
 
 ## Notes by day
