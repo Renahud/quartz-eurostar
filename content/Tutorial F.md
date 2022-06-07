@@ -30,7 +30,7 @@ The tester should have the most knowledge about functionalities of the system, t
 ## Approaches to test automation
 
 ### 3 amigos approache
-- PO
+- [PO](Product%20Owner.md)
 - Tester
 - Developper
 All working together.
@@ -69,10 +69,10 @@ Tests focused on the business flow.
 
 Workflow as modeled in Yest :
 
-![](static/Pasted%20image%2020220607100248.png)
+![[_attachments/Pasted image 20220607100248.png]]
 
 
-The discussion should stay at a high level. Acceptence driven -> can be discussed with the PO as well as with the Devs.
+The discussion should stay at a high level. Acceptence driven -> can be discussed with the [PO](Product%20Owner.md) as well as with the Devs.
 
 The detailes whould be discussed when the time of the execution comes (manual or auto). 
 
@@ -87,8 +87,8 @@ In yest :
 - right click -> analyse workflow
 - generate test scenarios
 
-![](static/Pasted%20image%2020220607113827.png)
-![](static/Pasted%20image%2020220607113941.png)
+![[_attachments/Pasted image 20220607113827.png]]
+![[_attachments/Pasted image 20220607113941.png]]
 
 You should also parameterized data
 
