@@ -40,7 +40,7 @@ The way that we talk about things, the way that we formalize things, might give 
 
 #### Gestures
 
-Gestures being a limitedway of expressing a meaning, it may have originated the language
+Gestures being a limited way of expressing a meaning, it may have originated the language
 
 
 #### Sounds
@@ -68,4 +68,39 @@ Might be hard, we might choose the word we like the most even if it's not the mo
 #### Most common word
 
 > Huh?
+
+
+## Learning
+
+- Establish subject
+- Establish and observe connections
+- Use connections to discover patterns
+- Break patterns
+
+### Communication
+
+Problem :
+- They know something you don't
+- You know something they don't
+
+-> Questions to ask:
+- Do you know everything you need to know ( ~ context)
+- Are you communicating.... something
+
+
+### Puzzles vs Mysteries
+
+#### Puzzles
+
+***Referential knowledge***. You put together what you have/know, and figure out what's missing, what you don't have.
+
+--> The information here is a close system. Everything you need is there
+
+#### Mysteries
+
+A lot of information. Any information you can get. You have to move information away, find out what the important information is. 
+
+--> Too much information
+
+
 
