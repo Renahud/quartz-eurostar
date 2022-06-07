@@ -107,3 +107,56 @@ The symbol should be positive.
 
 End of zone 30 km/H : doesn't tell you what speed you can now ride at.
 
+## Learning
+
+- Establish subject
+- Observe connections
+- discover patterns
+- beaking patterns
+
+### 2X2 learning Communication
+- problem ?
+	- they no something you don't
+	- you know something they don't
+
+### Puzzles & mysteries
+
+**Puzzle** : referentioal knowledge
+Use what you know to infer what you don't know
+
+**Mysteries**: A lot of information is available, almost an infinity.
+You have to remove information to find what's relevant.
+
+_Problems arise when we treat one like the other._
+
+You need to know how people learn to know how to explain.
+
+### Collaboration
+- Ability to have a voice
+	- open to all
+	- same call to action
+	- masters actively engaged in refinement and recruitement
+- Common language
+	- agreed on communication
+	- help those unfamiliar
+	- non-language language
+		- expressions
+		- experiences
+		- irony
+- Openness to new discovery
+	- other cultures
+	- other ways of thinking
+	- new facts
+	- challengers fectal/ethical/philosopical
+	- "in it together" mentality
+- Created shared set of values and rules
+	- reated to goal 
+	- rules enforced or reminded
+	- examples
+		- memes
+		- framing devices
+		- rules
+- equality of presence
+	- no one is more in the group by virtue of lication (tee-work)
+	- everyone is rated on contribution
+	- conversations do not happen behind a closed door for a few members
