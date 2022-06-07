@@ -11,7 +11,8 @@ Notes by [Virginie](people/Virginie.md)
 2) get experience with raising risks (probabiblity x impact) with the team
 3) perform estimates with the team as a whole
 4) collaborating on the test approach within the team: defining tests levels together with the whole team
+5) Planify the tasks (inclusive testing task) for the stories of the sprint : per story level : lists things to be done (not by whom - help will be provide where needed)
 
 
 
-=> raise the discussion as a team to get a common understanding of quality
+=> the purpose of all that sprint workflow : raise the discussion as a team to get a common understanding of quality
