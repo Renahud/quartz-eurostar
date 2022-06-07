@@ -7,3 +7,4 @@ Notes by [Renaud](people/Renaud.md), [Manon](people/Manon.md)
 
 ## Simplicity: Distilling and Refining Test Communication
 
+Renaud & Manon: blablabla 
