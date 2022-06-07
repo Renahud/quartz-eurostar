@@ -90,6 +90,19 @@ In yest :
 ![](Pasted%20image%2020220607113827.png)
 ![](Pasted%20image%2020220607113941.png)
 
+You should also parameterized data
+
+### Two kinds of data
+
+- Design data
+	- based on business rules
+	- defined by PO/ analyst
+	- equivalence partitions in test design
+- Implementation Data
+	- concrete values for test automation framework
+	- usually specified manually by the tester
+	- realization strongly depends on tool
+
 ---
 ## Creation of automated Tests
 
