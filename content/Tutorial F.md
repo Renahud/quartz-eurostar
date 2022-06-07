@@ -19,7 +19,7 @@ We want to Atomalte Tests, but it is difficult.
 
 In agile teams, there's often no dedicated testers.
 
-ISTQB was born from the constat thet it doesn't work. Teams need specialised testers, because they have a different mindset.
+ISTQB was born from the observation that it doesn't work. Teams need specialised testers, because they have a different mindset.
 
 Developers tend to focus on unit tests and miss the top of the pyramid. Which require more business knowledge.
 
