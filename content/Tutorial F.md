@@ -6,7 +6,7 @@ Notes by [Renaud](people/Renaud.md)
 
 
 Tutorail By _Dr Anne Kramer_,  using [Yest](https://marketplace.atlassian.com/apps/1221359/yest-agile-test-design-automation)
-
+(Yest has a jira integration)
 # Introduction
 
 ### Visualising Busines Workflows
