@@ -7,3 +7,4 @@ Notes by [Virginie](people/Virginie.md)
 [Official introduction](https://conference.eurostarsoftwaretesting.com/event/2022/shaping-testing-a-simulation-in-scrum/)
 
 ##  Shaping Testing – A Simulation in Scrum
+Coucou
