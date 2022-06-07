@@ -69,7 +69,7 @@ Tests focused on the business flow.
 
 Workflow as modeled in Yest :
 
-![](_attachments/Pasted%20image%2020220607100248.png)
+![[_attachments/Pasted image 20220607100248.png]]
 
 
 The discussion should stay at a high level. Acceptence driven -> can be discussed with the [PO](Product%20Owner.md) as well as with the Devs.
@@ -87,8 +87,8 @@ In yest :
 - right click -> analyse workflow
 - generate test scenarios
 
-![](_attachments/Pasted%20image%2020220607113827.png)
-![](_attachments/Pasted%20image%2020220607113941.png)
+![[_attachments/Pasted image 20220607113827.png]]
+![[_attachments/Pasted image 20220607113941.png]]
 
 You should also parameterized data
 
