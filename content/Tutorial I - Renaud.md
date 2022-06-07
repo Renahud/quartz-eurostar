@@ -66,8 +66,7 @@ Understood in most cultures.
 
 #### Universal basic understanding
 
-<iframe src="https://splasho.com/upgoer5" width="800px" height="400px" ></iframe>
-
+https://splasho.com/upgoer5
 
 The audiance of what you say matters. Using simple words can help.
 
@@ -131,7 +130,7 @@ _Problems arise when we treat one like the other._
 
 You need to know how people learn to know how to explain.
 
-### Collaboration
+## Collaboration
 - Ability to have a voice
 	- open to all
 	- same call to action
@@ -160,3 +159,7 @@ You need to know how people learn to know how to explain.
 	- no one is more in the group by virtue of lication (tee-work)
 	- everyone is rated on contribution
 	- conversations do not happen behind a closed door for a few members
+
+> Collaboration is also knowing when not to act
+
+## Communication Process
