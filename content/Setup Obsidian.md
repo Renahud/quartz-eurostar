@@ -27,7 +27,7 @@ Once your change are pushed to the **hugo** branch, the site will be automatical
 
 #### Files and Links
 Make sure your settings look like this :
-![](_attachments/Pasted%20image%2020220603091339.png)
+![[_attachments/Pasted image 20220603091339.png]]
 
 ### Plugins
 The following plugins can be usefull.
