@@ -101,4 +101,9 @@ Be carefull with acronyms
 
 #### Symbols : hidden complexity
 
+Some symbols only work in a context, it's better to have symbols that are explicit.
+
+The symbol should be positive.
+
+End of zone 30 km/H : doesn't tell you what speed you can now ride at.
 
