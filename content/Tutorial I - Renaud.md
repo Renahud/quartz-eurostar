@@ -2,7 +2,7 @@
 title: "Tutorial I - Renaud"
 ---
 
-tutorial by _Pathfinder_
+tutorial by _Pathfinder_, [Lien vers les slides]()
 
 ## What is simplification ?
 
@@ -164,12 +164,6 @@ You need to know how people learn to know how to explain.
 
 ## Communication Process
 
--
-
-### differences in the picture
-- the door
-- ribbon
-- fuel pump
 
 An automated system can spot the differences, only the human can tell which one are important .
 When you give a report, only focus on what's really important.
@@ -183,4 +177,17 @@ what's in common with testing ?
 	- demand - supply in  reports
 - quality of product
 - company without testers produce lower quality items
+
+> Convince the [product owner](Product%20Owner.md) that he doesn't want to be the owner of a shitty quality product
+
+## Exercise
+Write your test process on a post-it note.
+
+- Read requirements
+- Design scenarios
+- Execute tests
+- fix bug
+- goto 3
+
+
 
