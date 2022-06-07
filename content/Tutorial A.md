@@ -11,7 +11,7 @@ Notes by [Virginie](people/Virginie.md)
 2) get experience with raising risks (probabiblity x impact) with the team (backlog refinement session)
 3) perform estimates with the team as a whole (backlog refinement session)
 4) collaborating on the test approach within the team: defining tests levels together with the whole team
-5) Planify the tasks (inclusive testing tasks) during sprint planning for the stories of the sprint : per story level : lists things to be done (not by whom - help will be provide where needed)
+5) Identify & plan the tasks (inclusive testing tasks) during sprint planning for the stories of the sprint : per story level : lists things to be done (not by whom - help will be provide where needed)
 
 
 
