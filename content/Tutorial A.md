@@ -14,4 +14,4 @@ Notes by [Virginie](people/Virginie.md)
 
 
 
-= raise the discussion as a team to get a common understanding of quality
+=> raise the discussion as a team to get a common understanding of quality
