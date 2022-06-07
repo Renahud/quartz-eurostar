@@ -163,8 +163,6 @@ You need to know how people learn to know how to explain.
 > Collaboration is also knowing when not to act
 
 ## Communication Process
-
-
 An automated system can spot the differences, only the human can tell which one are important .
 When you give a report, only focus on what's really important.
 
@@ -182,12 +180,10 @@ what's in common with testing ?
 
 ## Exercise
 Write your test process on a post-it note.
-
-- Read requirements
-- Design scenarios
-- Execute tests
-- fix bug
-- goto 3
+1. Read requirements 
+2. Design scenarios 
+3. Execute tests fix bug 
+4. goto 3
 
 
 
