@@ -10,8 +10,8 @@ Notes by [Virginie](people/Virginie.md)
 1) get experience with splitting stories and epics together with the team
 2) get experience with raising risks (probabiblity x impact) with the team
 3) perform estimates with the team as a whole
-4) collaborating on the test approach within the team: defining tests levels together
+4) collaborating on the test approach within the team: defining tests levels together with the whole team
 
 
 
-= raise the discussion as a team to get a common understanding of quality
+=> raise the discussion as a team to get a common understanding of quality
