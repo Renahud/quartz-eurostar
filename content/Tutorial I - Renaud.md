@@ -59,5 +59,46 @@ Cats communicate with whiskers and ears.
 | on   | 14   |
 
 
+**Most common word** : Huh ?
+Understood in most cultures.
+
+### Globalization of ideas
+
+#### Universal basic understanding
+
+<iframe src="https://splasho.com/upgoer5" width="800px" height="400px" ></iframe>
+
+
+The audiance of what you say matters. Using simple words can help.
+
+### Symbols
+
+#### Heart
+Origin from a plant that is :
+- holy
+- centerpiece of religions pas and present
+- Mentioned in legends of creation
+
+=> FIG
+
+![](static/Pasted%20image%2020220607144741.png)
+
+#### Not all sumbols age well
+ => swatzika
+
+#### Symbols today
+
+| symbol     | meaning                     |
+| ---------- | --------------------------- |
+| red cross  | health, help                |
+| forkéknife | restaurant                  |
+| P          | Parking                     |
+| Peace sign | Peace                       |
+| Stop       | Stop / danger / do not cros | 
+
+#### Symbols in test
+Be carefull with acronyms
+
+#### Symbols : hidden complexity
 
 
