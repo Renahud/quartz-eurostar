@@ -81,9 +81,14 @@ This visualization is helpfull to validate and discuss requirements.
 
 
 ---
-## Automated tests Generation
+## Automated test cases Generation
 
+In yest : 
+- right click -> analyse workflow
+- generate test scenarios
 
+![](Pasted%20image%2020220607113827.png)
+![](Pasted%20image%2020220607113941.png)
 
 ---
 ## Creation of automated Tests
