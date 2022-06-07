@@ -80,7 +80,7 @@ Origin from a plant that is :
 
 => FIG
 
-![](static/Pasted%20image%2020220607144741.png)
+![](_attachments/Pasted%20image%2020220607144741.png)
 
 #### Not all sumbols age well
  => swatzika
@@ -163,3 +163,24 @@ You need to know how people learn to know how to explain.
 > Collaboration is also knowing when not to act
 
 ## Communication Process
+
+-
+
+### differences in the picture
+- the door
+- ribbon
+- fuel pump
+
+An automated system can spot the differences, only the human can tell which one are important .
+When you give a report, only focus on what's really important.
+
+## Sales
+what's in common with testing ?
+- setting up a shop
+- ordering
+- users are customers
+- testing results minus interested users results in unread reports
+	- demand - supply in  reports
+- quality of product
+- company without testers produce lower quality items
+
