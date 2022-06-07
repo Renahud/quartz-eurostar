@@ -80,7 +80,7 @@ Origin from a plant that is :
 
 => FIG
 
-![](_attachments/Pasted%20image%2020220607144741.png)
+![[_attachments/Pasted image 20220607144741.png]]
 
 #### Not all sumbols age well
  => swatzika
