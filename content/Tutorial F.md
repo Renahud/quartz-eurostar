@@ -61,7 +61,7 @@ Best of everything, the goal of this tuto.
 
 # Tutorial
 
-## Business Wrkflows to visualisation
+## Business Wrkflows to visualization
 
 Program to test : [Car insurance simulation](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdemo-simulator.herokuapp.com%2F&data=05%7C01%7Crenaud.pirson%40sfpd.fgov.be%7C714366dbeafb43409be208da4490f877%7C66c008a4b56549a993c9c1e64cad2e11%7C0%7C0%7C637897686686314826%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=xQzUXQDDltuNcoyZpnXcySON9rppRoKpXjZFhbQl%2Brk%3D&reserved=0).
 
@@ -75,6 +75,9 @@ Workflow as modeled in Yest :
 The discussion should stay at a high level. Acceptence driven -> can be discussed with the PO as well as with the Devs.
 
 The detailes whould be discussed when the time of the execution comes (manual or auto). 
+
+This visualization is helpfull to validate and discuss requirements.
+
 
 
 ---
