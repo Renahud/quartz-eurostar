@@ -42,7 +42,7 @@ To test it, you need to understand the relation with the printer, the operating 
 
 The relationship of the users with the software is what matters the most
 
-![[Drawing 2022-06-08 09.50.06.excalidraw]]
+![[Excalidraw/Drawing 2022-06-08 09.50.06.excalidraw]]
 
 ### Continuous learning
 
