@@ -2,8 +2,8 @@
 title: "draft-keynote-renaud"
 ---
 
-# Keynotes
-
+# draft - Keynotes
+[[people/Renaud]]
 ## My essence of Testing
 by *Richard Edgreen*
 
