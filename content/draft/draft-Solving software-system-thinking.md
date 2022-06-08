@@ -26,5 +26,10 @@ Non-IT systems
 - addiction / dependency
 	- behaviour
 	- poor estimation
-		- 
+	- technical debt
+- escalation trap
+	- 2 parties trying to surpass eachother
+	- contributing to working in silos
+		- competition between teams
+	- 
 
