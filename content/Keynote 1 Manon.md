@@ -121,3 +121,4 @@ It's harder to evaluate the tests for the structure than the functions
 - Metrics tumour
 - Sick testing techniques
 
+> ***Machines are bad at serendipity***
