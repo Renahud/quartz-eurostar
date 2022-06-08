@@ -54,7 +54,8 @@ Charge the devs of refactoring to be able to cover with tests
 > Most of us spend too much time on what is urgent and not enough time on what's important
 / Stephen R. Covey
 
-
+**Dynamic test execution.**
+Tracing the link between a function and it's coverage tests to only run the tests that cover that specific function. => optimize execution time
 
 ## Notes
 
