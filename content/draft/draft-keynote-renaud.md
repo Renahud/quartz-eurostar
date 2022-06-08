@@ -51,7 +51,7 @@ Making serendipity happen :
 	- sagacity
 	- understanding
 
-## Models:
+## Models
 - a way of simplifying on's understanding
 - can come from multiple source
 	- devs
@@ -61,9 +61,23 @@ Making serendipity happen :
 	- a lot of other things...
 - some models are not visible
 - diversity is good (more views of the subject)
-- 
 
+Modeling resource : [[SFDIPOT]]
 
+## Binary desease
+A lot of tools are binary : pass/fail
+- pass/Fail addiction
+	- need to put pass/fail on every test, bad feeling if you canot say either way
+- Coverage Obsession
+	- Obsessed with the percentage of coverage
+- Metrics Tumour
+- Sick Testing Techniques
+	- too much equivalence partitionning (formalized)
+	- thing of techniques first
 
+A human's software
+made by humans
+for humans
 
+Human can make better judgement about what's important.
 
