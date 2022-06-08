@@ -64,7 +64,7 @@ Making serendipity happen :
 
 Modeling resource : [[SFDIPOT]]
 
-## Binary desease
+## Binary disease
 A lot of tools are binary : pass/fail
 - pass/Fail addiction
 	- need to put pass/fail on every test, bad feeling if you canot say either way
