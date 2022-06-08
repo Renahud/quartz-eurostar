@@ -109,5 +109,7 @@ In Yest, there's a possibility to inject datasets.
 ---
 ## Creation of automated Tests
 
+Yes can generate tests scripts in various languages, including java / selenium, using a keyword approach. In case of java, those keyords would be function calls with parameters extracted from the dataset in Yest.
 
+The function calls corresponding to the keywords must be implemented by a developer/ automation sepcialist
 
