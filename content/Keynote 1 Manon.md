@@ -92,7 +92,7 @@ A model is a version of someone's understanding. Hence, having multiple models i
 - Knowledge of the product
 - ...
 
-![[the-potato.excalidraw]]
+![[drawings/the-potato.excalidraw]]
 
 
 #### Invisible, overlapping models
