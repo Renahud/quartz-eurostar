@@ -109,7 +109,7 @@ Find something you can do where you are comfortable.
 ### Sanitation
 
 - Organise
-- identifay oxic, unhelpful habits and environments
+- identify toxic, unhelpful habits and environments
 	- deal with them
 - say no
 - do retrospectives
@@ -139,7 +139,7 @@ He called his mom, she encouraged him.
 It took a long time to find the right people, but he ended up finding them.
 
 ### Interviews
-Do not try no find clones of yourself. Try to create diversity. People that won't do exactly what you tell them.
+Do not try to find clones of yourself. Try to create diversity. People that won't do exactly what you tell them.
 
 christovskia.blog
 testingpeers.com
