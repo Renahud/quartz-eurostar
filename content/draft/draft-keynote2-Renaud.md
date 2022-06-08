@@ -77,5 +77,12 @@ Exploration Support
 
 Surveying the work of the tester to generate a model of the system.
 
+new Paradigm:
+**Interactive Test Environment** (ITE) (ref to IDE)
+- survey mode
+- edit mode
+- interactive test mode
+- unattended mode
 
+>Testing automation becomes a modeling problem, not a scripting/programming problem
 
