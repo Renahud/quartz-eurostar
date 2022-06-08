@@ -54,7 +54,7 @@ What's *fun* in your job
 - entertainment
 - social impact awareness
 
-### flashlight : focus
+### Flashlight : focus
 knowing what's distracting to you and find solutions.
 
 - pinpoint
@@ -128,6 +128,7 @@ identify bottlenecks, try not to be one, document
 
 ### Maps
 - CONTEXT
+- documents
 
 > Forget the mistake, remember the lesson
 
@@ -137,3 +138,8 @@ He called his mom, she encouraged him.
 
 It took a long time to find the right people, but he ended up finding them.
 
+### Interviews
+Do not try no find clones of yourself. Try to create diversity. People that won't do exactly what you tell them.
+
+christovskia.blog
+testingpeers.com
