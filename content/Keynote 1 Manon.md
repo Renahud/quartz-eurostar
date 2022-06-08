@@ -42,7 +42,7 @@ To test it, you need to understand the relation with the printer, the operating 
 
 The relationship of the users with the software is what matters the most
 
-![[drawings/relations-with-production.excalidraw]]
+![[relations-with-production.excalidraw]]
 
 ### Continuous learning
 
@@ -85,18 +85,19 @@ By unterstanding differences and similarities -> know what to tests
 ### Models
 
 A model is a version of someone's understanding. Hence, having multiple models is important. A model could come from 
+
 - Developers
 - Data
 - Usage
 - Knowledge of the product
 - ...
 
-![[drawings/the-potato.excalidraw]]
+![[the-potato.excalidraw]]
 
 
 #### Invisible, overlapping models
 
-![[drawings/overlapping-models.excalidraw]]
+![[overlapping-models.excalidraw]]
 
 ### Modeling - Product elements
 
