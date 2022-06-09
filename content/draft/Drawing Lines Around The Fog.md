@@ -44,7 +44,7 @@ If we externalize expertise, we increase the feedback loop
 
 ### Testers, and all roles, are going to have to comb shape
 
-T-Shape -> PI shaping (two or more specialization) -> Comb
+T-Shape -> PI shape (two or more specializations) -> Comb
 
 ![[drawings/comb-shaping.png]]
 
@@ -86,7 +86,7 @@ People working together **are** going to clash heads.
 - More quality on less budget
 - More people on smaller teams
 - Better value in less time
-- Decomplexification without simplification
+- Decomplexification without oversimplification
 - ....
 
 ### Let's not panic
