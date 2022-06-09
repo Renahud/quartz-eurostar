@@ -9,12 +9,6 @@ Tutorail By _Dr Anne Kramer_,  using [Yest](https://marketplace.atlassian.com/ap
 (Yest has a jira integration)
 # Introduction
 
-### Visualising Busines Workflows
-
-Also known as **Model Based testing**.
-
----
-
 We want to Atomalte Tests, but it is difficult.
 
 In agile teams, there's often no dedicated testers.
@@ -48,14 +42,16 @@ Nice idea, but this approach still stems from code and development. Thus still u
 
 ### Model-based Testing
 
+Visualising Busines Workflows
+
 Workflows + business rules.
 
-### Visual acceptence test driven development
+### Visual acceptence test driven development (Visual ATDD)
 
 Best of everything, the goal of this tuto.
 
 - Test-friven like BDD
-- Vidial with MBT
+- Visual with MBT
 - Colaboration of 3 amigos
 - Separate logic and code using keywords.
 
@@ -90,7 +86,7 @@ In yest :
 ![[_attachments/Pasted image 20220607113827.png]]
 ![[_attachments/Pasted image 20220607113941.png]]
 
-You should also parameterized data
+You should also parameterized data.
 
 ### Two kinds of data
 
@@ -111,5 +107,5 @@ In Yest, there's a possibility to inject datasets.
 
 Yes can generate tests scripts in various languages, including java / selenium, using a keyword approach. In case of java, those keyords would be function calls with parameters extracted from the dataset in Yest.
 
-The function calls corresponding to the keywords must be implemented by a developer/ automation sepcialist
+The function calls corresponding to the keywords must be implemented by a developer/ automation sepcialist.
 
