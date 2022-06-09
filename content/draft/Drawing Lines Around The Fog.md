@@ -46,7 +46,7 @@ If we externalize expertise, we increase the feedback loop
 
 T-Shape -> PI shaping (two or more specialization) -> Comb
 
-![[comb-shaping.png]]
+![[drawings/comb-shaping.png]]
 
 Be like a cameleon, change colors based on context
 
