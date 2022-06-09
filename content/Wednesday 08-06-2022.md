@@ -13,3 +13,8 @@ title: "Wednesday 08-06-2022"
 
 [[draft/draft - mama said my shape was ok]]
 
+[[Thanks, I hate It - Being grateful for failure]]
+
+[[Take Charge! Unbend yourself back into action]]
+
+

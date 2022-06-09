@@ -1,7 +1,11 @@
 ---
 title: "Tutorial  B"
-alias: ["Tutorial B", "Developing Critical Thinking Skills for Testers"]
+alias: ["Tutorial B", "Developing Critical Thinking Skills for Testers - Andrew Brown"]
 ---
+Notes by [[Jana]]
+
+Speaker: Andrew Brown
+[Official introduction](https://conference.eurostarsoftwaretesting.com/event/2022/developing-critical-thinking-skills-for-testers/)
 
 ## Confirmation Bias
 Often when we test we start from a hypothesis (our belief in how the system is/should work) and we're only looking for confirmation: we run tests that confirm the hypothesis instead of challenging it.
@@ -27,10 +31,10 @@ Our logic is not always rational. As humans we're much better at deontic reasoni
 = Pure logic/abstract reasoning => true/false
 
 Exercise to illustrate:
-- 4  cards with a letter on one side and a number on the other: 
-			A		B		4		7
-			rule: if it's a vowel, it should always have a an even number on the other side
-			=> which card(s) do you turn to test the rule?
+4  cards with a letter on one side and a number on the other: 
+A		B		4		7
+rule: if it's a vowel, it should always have a an even number on the other side
+=> which card(s) do you turn to test the rule?
 
 ### Deontic Reasoning
 = Reasoning about permissions, obligations, prohibitions => social rules
@@ -90,6 +94,9 @@ Spending a lot of time to find the most elegant/ideal solution to test something
 How can we generate other solutions?
 - brainstorming
 - assert/inform that a solution exist => f. ex. by knowing that there is a way to solve the 12 weights problem in 3 steps, you will try to find that solution
+
+## Summary
+![[_attachments/Pasted image 20220607205851.png]]
 
 
 
