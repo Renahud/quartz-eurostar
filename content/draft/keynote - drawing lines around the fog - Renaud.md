@@ -66,7 +66,7 @@ Automation is not the only option though.
 
 #### We need to understand friction
 
-Friction : book:  [[The Art of Action]] (Stephen Bungay)
+Friction : book:  [[The Art of Action]] (Stephen Bungay) #BookRef
 
 Friction isn't avoidable.
 
