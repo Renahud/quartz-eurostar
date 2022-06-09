@@ -10,7 +10,7 @@ What is simpler  is easier to take in.
 There's value in simplicity itself.
 
 Tometimes, what looks simpler is not actually more simple.
-Simplifying =/= hiding the mess.
+Simplifying != hiding the mess.
 
 ## Language
 
