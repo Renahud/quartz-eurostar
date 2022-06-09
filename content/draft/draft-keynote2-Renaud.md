@@ -21,7 +21,7 @@ Life was simpler back then :
 - "complexity" per person was the same
 - the "human" aspect was the same
 
-*Devops is a human endeavour; not a technology.*
+*[[Devops]] is a human endeavour; not a technology.*
 
 ## Software, Testing and engineering
 
