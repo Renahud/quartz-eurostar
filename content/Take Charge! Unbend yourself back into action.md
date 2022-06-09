@@ -1,7 +1,7 @@
 ---
 title: "Take Charge! Unbend yourself back into action - Brijesh Deb"
 ---
-Notes by [[Jana]]
+Notes by [[people/Jana]]
 
 [Official introduction](https://conference.eurostarsoftwaretesting.com/event/2022/take-charge-unbend-yourself-back-into-action/)
 
