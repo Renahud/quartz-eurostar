@@ -23,3 +23,13 @@ The medium is the message = what's important is how the medium transforms us.
 
  => How is digital transformation  transforming us ?
 
+Mediated testing (with tools/automation) can distord the perception of the user's experience of the product.
+
+- **Experiential Testing**
+	- Better word than manual testing, which can be degrading. Can even be applied to testing an API, if you test it as if you were a developer using the API.
+
+- **Interractive testing**
+- **Transformational testing**
+
+=> **CONSIDER USING THE DAMNS THING**
+
