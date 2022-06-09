@@ -1,6 +1,6 @@
 ---
 title: "Devops"
-alias [DevOps, devops, "Dev Ops"]
+alias: [DevOps, devops, "Dev Ops"]
 ---
 
 
