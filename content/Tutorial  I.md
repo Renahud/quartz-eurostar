@@ -26,6 +26,22 @@ Some anthropologists thought that maybe, humans developed the ability to see blu
 
 However, a recent experiment on some namibian tribes that don't have a word for _blue_ showed something even more interresting.  
 In an experiment showing a bunch of green squares and a single blue square, they were enable to spot the blue one.
-It seems that the fact that they don't have the concept of blue prenvents them from seeing blue, even if they're physicly capable of it. On the other side, they're capable of seeing subtle shades of green that westerners can't.
+It seems that the fact that they don't have the concept of blue prevents them from distinguishing blue, even if they're physicly capable of it. On the other side, they're capable of seeing subtle shades of green that westerners can't.
+
+This highlights how much one's history, language, habit, culture can heavily alter how they interpret a message, een as basic as a color.
+
+#### Language with no words
+
+Gestures and sounds are the origin or language. Sounds used in the language were once sufficient to transmit information, before they were articulated into words.
+
+**Most common word** : Huh ?
+Understood in most cultures.
+
+### Symbols
+
+Some symbols, like the heart, are preaty much universal 
+
+
+
 
 
