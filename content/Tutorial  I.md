@@ -25,4 +25,7 @@ Historians have noticed that in some ancient cultures, there was no mention of t
 Some anthropologists thought that maybe, humans developed the ability to see blue more recently. However, it seems they just didn't separate _blue_ from other colors as a concept. The greeks for example, would describe the sea as "_dark wine_" and not blue.
 
 However, a recent experiment on some namibian tribes that don't have a word for _blue_ showed something even more interresting.  
+In an experiment showing a bunch of green squares and a single blue square, they were enable to spot the blue one.
+It seems that the fact that they don't have the concept of blue prenvents them from seeing blue, even if they're physicly capable of it. On the other side, they're capable of seeing subtle shades of green that westerners can't.
+
 
