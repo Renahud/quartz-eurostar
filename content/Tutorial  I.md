@@ -4,8 +4,6 @@ alias: ["Tutorial I", "Simplicity: Distilling and Refining Test Communication"]
 authors: [[[people/Renaud]],[[people/Manon]]]
 ---
 
-%%Notes by [Renaud](people/Renaud.md)( [live notes](draft/Tutorial%20I%20-%20draft%20Renaud.md) ), [Manon](people/Manon.md) ( [[draft/Tutorial I - Manon]])%%
-
 ## Simplicity: Distilling and Refining Test Communication
 
 
