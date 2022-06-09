@@ -80,7 +80,7 @@ Origin from a plant that is :
 
 => FIG
 
-![[_attachments/Pasted image 20220607144741.png]]
+
 
 #### Not all sumbols age well
  => swatzika
@@ -90,7 +90,7 @@ Origin from a plant that is :
 | symbol     | meaning                     |
 | ---------- | --------------------------- |
 | red cross  | health, help                |
-| forkéknife | restaurant                  |
+| fork&knife | restaurant                  |
 | P          | Parking                     |
 | Peace sign | Peace                       |
 | Stop       | Stop / danger / do not cros | 

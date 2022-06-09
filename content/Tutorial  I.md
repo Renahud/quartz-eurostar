@@ -1,18 +1,25 @@
 ---
 title: "Tutorial  I"
 alias: ["Tutorial I", "Simplicity: Distilling and Refining Test Communication"]
+authors: [[[people/Renaud]],[[people/Manon]]]
 ---
 
-Notes by [Renaud](people/Renaud.md)( [live notes](draft/Tutorial%20I%20-%20draft%20Renaud.md) ), [Manon](people/Manon.md) ( [[draft/Tutorial I - Manon]])
+%%Notes by [Renaud](people/Renaud.md)( [live notes](draft/Tutorial%20I%20-%20draft%20Renaud.md) ), [Manon](people/Manon.md) ( [[draft/Tutorial I - Manon]])%%
 
 ## Simplicity: Distilling and Refining Test Communication
 
 
-What is simpler  is easier to take in.
-There's value in simplicity itself.
+### Simplification
 
-Tometimes, what looks simpler is not actually more simple.
-Simplifying != hiding the mess.
+**It doesn't need to just *look* simpler but to actually be simpler.**
+
+There is value in simplicity : 
+- Ease
+- Goal transparency
+
+> Sometimes when we "simplify" things, we're just making the mess invisible.
+
+**LOOKING SIMPLE != BEING SIMPLE**
 
 ### Language
 Test communication relies mostly on languange. The problem is: language is not universal,. Even when people speak the same language, the communication can be confusing.
@@ -37,10 +44,38 @@ Gestures and sounds are the origin or language. Sounds used in the language were
 **Most common word** : Huh ?
 Understood in most cultures.
 
+#### Choosing the most common words
+
+In order to be the most easily understood, try to use the most common words you can. It will allow people with less context knowledge to easily understand what you mean.
+
 ### Symbols
 
 Some symbols, like the heart, are preaty much universal 
+The heart symbol comes from the Fig !
+![[_attachments/Pasted image 20220607144741.png]]
+That fruit is considered holy in some religions and has played an important role in old cultures.
 
+Some other symbols are old, but had a recent history that changed their meaning. ex : the swatzika
+
+#### Hidden complexity in symbols
+Some symbols only work in a context, it's better to have symbols that are explicit.
+
+The symbol should be positive.
+
+End of zone 30 km/H : doesn't tell you what speed you can now ride at. You have to know the context to interpret it correctly.
+
+## How to simplify Communication in tests ?
+
+We should always be careful of the comunication we emit, and try to work on that communication to make it simple to the person it's destined to, without hiding things.
+
+Questions to ask yourself
+- Who do we communicate to ?
+	- Cultural difference ?
+- Are those acronyms necessary ? 
+	- are they widely understood ?
+	- are they context dependent ?
+- Focus on the information that brings value to the people receiving it.
+- Focus on common simple words
 
 
 
