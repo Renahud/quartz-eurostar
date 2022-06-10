@@ -4,7 +4,7 @@ title: "Remote Ensemble Testing - From Experiment to Common Practice - Andrea Je
 
 notes by [[people/Jana]]
 
-[[Official introduction]](https://conference.eurostarsoftwaretesting.com/event/2022/remote-ensemble-testing-from-experiment-to-common-practice/)
+[Official introduction](https://conference.eurostarsoftwaretesting.com/event/2022/remote-ensemble-testing-from-experiment-to-common-practice/)
 
 ## The Experiment
 
