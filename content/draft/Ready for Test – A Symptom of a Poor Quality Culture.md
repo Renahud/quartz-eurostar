@@ -7,26 +7,26 @@ title: "Ready for Test – A Symptom of a Poor Quality Culture"
 Notes by [[people/Jana]]
 
 ### 3 ideas
-- quality is everyone's responsability => no possible for 1 person
-- everyone can test ==> everyone can ask questions
-- you don't work on the space shuttle ==> be prepared to take calculated risks
+- quality is everyone's responsability => not possible for 1 person
+- everyone can test => everyone can ask questions
+- you don't work on the space shuttle => be prepared to take calculated risks
 
 ### Problems
 - sprint board: ready to test column is full of tickets
-	=> tasks get stuck (complex to test, too little time, too little testers)
-	=> only the tester is doing the testing
+	- tasks get stuck (complex to test, too little time, too little testers)
+	- only the tester is doing the testing
 - sprint retro: "QA was a bottleneck"
 
 ### QA's don't own quality - Teams Do
 - everyone on the team has a contribution to make 
 - the earlier defects are caught the cheaper the fix 
-	=> don't start testing only after deployment
+	- don't start testing only after deployment
 - separation on paper encourages separation in behaviour 
-	=> ready for test column distuingishes the testing from the rest of the work
-	=> no early testing
-	=> no shared quality ownership
-	=> ticket pingpong
-	=> lost understanding
+	- ready for test column distuingishes the testing from the rest of the work
+	- no early testing
+	- no shared quality ownership
+	- ticket pingpong
+	- lost understanding
 	
 ### Removing "Ready for test" ?
 When testing - think TOEs
@@ -37,16 +37,18 @@ Test
 - Early
 
 ### Early Testing Strategies
-- Three amigos
-		- test assumptions
-		- discuss the task with a few people before working on it
-- Pairing
-		- test in real time
-		- work in pairs (f. ex. dev and analyst) to discover defects early and fix in real time
-		- one doing the work, other asking questions
-- Spike tickets
-		- test ideas
-		- timebox a task to test out a new idea within the team
+#### Three amigos
+-  test assumptions
+-  discuss the task with a few people before working on it
+
+#### Pairing
+- test in real time
+- work in pairs (f. ex. dev and analyst) to discover defects early and fix in real time
+- one doing the work, other asking questions
+
+#### Spike tickets
+- test ideas
+- timebox a task to test out a new idea within the team
 
 Testing early negates "Ready for Test" => it's already tested
 
@@ -59,9 +61,9 @@ Testing early negates "Ready for Test" => it's already tested
 
 ### Coaching - How do I promote testing?
 - pair with team members => learn about colleagues work, ask questions
-- review tests => teaching, coaching moment
+- review tests => use it as a teaching, coaching moment
 - run team ceremonies => as facilitator, you can inject questions about testing (not too much)
-- present at learning sessions
+- be present at learning sessions
 - contribute to knowledge guides
 - run workshops
 
