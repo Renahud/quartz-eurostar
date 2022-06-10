@@ -35,7 +35,7 @@ After introducing recruited (new) testers in the teams because thosse from the t
 
  **No framework or template can exactly match your own situation or project so you don't need to follow exactly what it says. Use what makes sense, what is useful, and leave the rest**
 
-£We need allies, partners in crime, to get the whole team excited. *Change is a team effort*. 
+We need allies, partners in crime, to get the whole team excited. *Change is a team effort*. 
 
 Provide guidance but leave room for inddividual implementation.
 
