@@ -3,7 +3,7 @@
 title: "Thanks, I hate It: Being grateful for failure - Dylan Lacey"
 ---
 
-Notes by [[Jana]]
+Notes by [[people/Jana]]
 
 [Official introduction](https://conference.eurostarsoftwaretesting.com/event/2022/thanks-i-hate-it-being-grateful-for-failure/)
 
@@ -27,7 +27,7 @@ Not
 - retros 
 
 ## Differentation in approach to failure
-![[learning_culture.png]]
+![[_attachments/learning_culture.png]]
 
 
 Use failures in different stages (build, integration tests, deploy, production) as a chance to adapt your approach, processes, rules, environments, skills, ... => LEARNING

@@ -1,8 +1,8 @@
 ---
-title: "The 7Ps Rule; Proper Planning & Preparation Prevents P... Performance"
+title: "The 7Ps Rule; Proper Planning & Preparation Prevents P... Performance - Søren Wassard"
 ---
 
-Notes by [[Jana]]
+Notes by [[people/Jana]]
 
 [Official introduction](https://conference.eurostarsoftwaretesting.com/event/2022/the-7ps-rule-proper-planning-preparation-prevents-p-poor-performance/)
 
@@ -30,7 +30,7 @@ You need to ask 2 questions:
 ## Identify the right product
 Testers can play an important role from the beginning - in the initiation phase, to identify if the product that will be developed is the right product.
 
-Possible techniques that can be used for proper planning and preparation:
+Possible techniques: that can be used for proper planning and preparation:
 
 ### Kano analysis
 Identify:
@@ -51,4 +51,6 @@ Test your riskiest assumption ("people want to use this product") before you sta
  
 f. ex. AirBnb: they started by building a simple homepage and tested it by renting out their own living rooms. 
 
-Aks the right questions!
+## Conclusion
+
+> Proper Planning & Preparation Prevents Piss Poor Performance

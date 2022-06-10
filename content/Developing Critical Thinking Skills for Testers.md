@@ -2,7 +2,7 @@
 title: "Tutorial  B"
 alias: ["Tutorial B", "Developing Critical Thinking Skills for Testers - Andrew Brown"]
 ---
-Notes by [[Jana]]
+Notes by [[people/Jana]]
 
 Speaker: Andrew Brown
 [Official introduction](https://conference.eurostarsoftwaretesting.com/event/2022/developing-critical-thinking-skills-for-testers/)
