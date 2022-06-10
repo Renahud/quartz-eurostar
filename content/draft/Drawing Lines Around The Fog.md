@@ -37,12 +37,12 @@ New quality attributes:
 
 If we externalize expertise, we increase the feedback loop
 
-### The shape of teams will have to change
+### The [[shaping testing|shape]] of teams will have to change
 - We'll still need specialists. Nobody can have all the deep knowledge that we need (UX, security, etc.)
 - We need new ways of collaborating
 	- Teams doing day to day activities and being coached/helped by experts
 
-### Testers, and all roles, are going to have to comb shape
+### Testers, and all roles, are going to have to comb [[shaping testing|shape]]
 
 T-Shape -> PI shape (two or more specializations) -> Comb
 

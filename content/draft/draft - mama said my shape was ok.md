@@ -32,7 +32,7 @@ Lack of context, do we need those skills ?
 
 ## Solution
 
-Variable shape.
+Variable [[shaping testing|shape]].
 Trying to fill a shape based on what is needed relative to other colleagues.
 Encourage oter colleagues to adapt to you alseo.
 

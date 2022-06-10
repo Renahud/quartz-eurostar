@@ -15,7 +15,7 @@ by _Wim Decoutere_
 - Users ask new features
 - Defects may induce changes to be fixed
 
-When faced with a chege, we can accept, reject or postpone it. To make the decision we must consider all factors.
+When faced with a change, we can accept, reject or postpone it. To make the decision we must consider all factors.
 - value
 - cost
 - time
