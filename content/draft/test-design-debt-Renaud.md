@@ -81,7 +81,7 @@ Creating a blueprint of the test:
 - split the test for each verification
 - for each small test, add alternatives
 - You can split the work
-- 
+
 
 
 
