@@ -76,6 +76,12 @@ Evaluate your exising testcases, should they be documented ?
 
 The execution order shoudl be externalized from the test
 1 test 1 goal
-Creating a blueprint of the test
+Creating a blueprint of the test:
+- create a gold standard test case with all happy path
+- split the test for each verification
+- for each small test, add alternatives
+- You can split the work
+- 
 
-/backup
+
+
