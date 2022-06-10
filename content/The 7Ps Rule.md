@@ -2,7 +2,7 @@
 title: "The 7Ps Rule; Proper Planning & Preparation Prevents P... Performance - Søren Wassard"
 ---
 
-Notes by [[Jana]]
+Notes by [[people/Jana]]
 
 [Official introduction](https://conference.eurostarsoftwaretesting.com/event/2022/the-7ps-rule-proper-planning-preparation-prevents-p-poor-performance/)
 
