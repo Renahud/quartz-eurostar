@@ -97,7 +97,7 @@ Some models are not visible, this is a representation of the speaker's mental re
 
 ### Modeling - Product elements
 
-[[SFDIPOT]]
+[[books/SFDIPOT]]
 
 - Structure - what the product is
 - Functions - what the product does
@@ -112,7 +112,7 @@ It's harder to evaluate the tests for the structure than the functions.
 
 
 
-Modeling resource : [[SFDIPOT]]
+Modeling resource : [[books/SFDIPOT]]
 
 ## Binary disease
 A lot of tools are binary : pass/fail

@@ -38,7 +38,7 @@ Even more roles and responsiblities for the teams
 - security
 ...
 
-#### The [[shaping testing|shape]] of teams will have to change
+#### The [[concepts/shaping testing|shape]] of teams will have to change
 
 We'll need specialists. Everybody won't be able to do it all.
 We won't have the time to continuously train for every skills.
@@ -46,7 +46,7 @@ We still need to be carefull of silos.
 
 Some of the new roles will be held by experts in a coaching role.
 
-=> [[Team topologies]]
+=> [[books/Team topologies]]
 
 ##### Comb shaped teams
 Multiple specialities

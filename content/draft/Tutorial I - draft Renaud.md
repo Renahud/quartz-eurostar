@@ -176,7 +176,7 @@ what's in common with testing ?
 - quality of product
 - company without testers produce lower quality items
 
-> Convince the [product owner](Product%20Owner.md) that he doesn't want to be the owner of a shitty quality product
+> Convince the [product owner](concepts/Product%20Owner.md) that he doesn't want to be the owner of a shitty quality product
 
 ## Exercise
 Write your test process on a post-it note.
