@@ -24,14 +24,18 @@ We tend to seek out information even if the result of a test does not provide us
 We should try to run only diagnostic tests and ask ourselves if the information we get is actually diagnostic about the rule we're testing.
 
 Exercise to illustrate: 
->There are 2 urns, that both contain 100 balls, with a differentcombination of red (R) and white (W) balls.  
->| urn A | urn B |
->| :---: | :---: |
->|70 W / 30 R | 70 R / 30 W |
->Someone chooses 1 of the 2 urns and draws a random number of balls from it. After this first drawing you write down your guess of the probabilty of the selected urn being urn A. 
->| drawing | W | R | probability of being urn A (%) |
->| :-----: | :-: | :-: | :------------------------------: |
->| 1st |  2 | 1  | ? |
+
+There are 2 urns, that both contain 100 balls, with a differentcombination of red (R) and white (W) balls.
+
+| urn A | urn B |
+| :---: | :---: |
+|70 W / 30 R | 70 R / 30 W |
+
+Someone chooses 1 of the 2 urns and draws a random number of balls from it. After this first drawing you write down your guess of the probabilty of the selected urn being urn A. 
+
+| drawing | W | R | probability of being urn A (%) |
+| :-----: | :-: | :-: | :------------------------------: |
+| 1st |  2 | 1  | ? |
 
 The person will continue drawing balls from the urn and you will alter your probabilty based on the colour of the balls drawn.
 
