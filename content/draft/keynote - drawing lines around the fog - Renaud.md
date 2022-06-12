@@ -38,7 +38,7 @@ Even more roles and responsiblities for the teams
 - security
 ...
 
-#### The [[concepts/shaping testing|shape]] of teams will have to change
+#### The [[shaping testing|shape]] of teams will have to change
 
 We'll need specialists. Everybody won't be able to do it all.
 We won't have the time to continuously train for every skills.

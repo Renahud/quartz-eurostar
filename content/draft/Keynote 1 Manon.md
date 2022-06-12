@@ -3,7 +3,7 @@ title: "Keynote 1 : My Essence of Testing - Understanding Relations"
 date: "08/06/2022 09:06"
 ---
 
-> Conference theme: ***[[concepts/shaping testing]]***
+> Conference theme: ***[[shaping testing]]***
 
 - Speaker: Rikard Egren
 

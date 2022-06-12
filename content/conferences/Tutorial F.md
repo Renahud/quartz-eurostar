@@ -24,7 +24,7 @@ The tester should have the most knowledge about functionalities of the system, t
 ## Approaches to test automation
 
 ### 3 amigos approache
-- [PO](concepts/Product%20Owner.md)
+- [PO](Product%20Owner.md)
 - Tester
 - Developper
 All working together.
@@ -68,7 +68,7 @@ Workflow as modeled in Yest :
 ![[_attachments/Pasted image 20220607100248.png]]
 
 
-The discussion should stay at a high level. Acceptence driven -> can be discussed with the [PO](concepts/Product%20Owner.md) as well as with the Devs.
+The discussion should stay at a high level. Acceptence driven -> can be discussed with the [PO](Product%20Owner.md) as well as with the Devs.
 
 The detailes whould be discussed when the time of the execution comes (manual or auto). 
 

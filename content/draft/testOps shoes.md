@@ -9,7 +9,7 @@ By _Dawid Pacia_
 continuous build -> continuous validation -> continuous delivery -> continuous monitoring
 
 TestOps:
-- integration with [[concepts/Devops]] Infra
+- integration with [[Devops]] Infra
 - which tests run and when
 - No need to stad up the whole system to test
 
