@@ -24,7 +24,7 @@ We tend to seek out information even if the result of a test does not provide us
 We should try to run only diagnostic tests and ask ourselves if the information we get is actually diagnostic about the rule we're testing.
 
 Exercise to illustrate:
->There are 2 urns, that both contains100 balls, with a various combination of red (R) and white (W) balls.
+There are 2 urns, that both contains100 balls, with a various combination of red (R) and white (W) balls.
 | urn A | urn B |
 | - | - |
 |70 W / 30 R | 70 R / 30 W |
@@ -60,8 +60,9 @@ RULE: if you're under 18, you can't drink alcohol
 The first exercise (letter & numbers) is a lot harder than the second one (age & drinks), although the logic is the same. That's because humans are very good at social reasoning. This is linked with dominance theory and theory of mind.
 
 #### Dominance theory
-The brain size of animals (size of the frontal cortex in relation to the rest of the brain) is linked with the size of the social group of that animal ==> you need a lot of brain capacity to keep track of all the social relations. 
-Humans have the biggest brain ratio and can have social groups of 100 to 150 individuals. This social group has a social hierarchy. If you're dominant, you need social skills to make the rules and make others follow them. If you're non-dominant, you use social skills tho use those rules, form alliances, .... Most people are both dominant and non-domninant depending on the context.
+The size of the social group of an animal is linked with the brain size (size of the frontal cortex in relation to the rest of the brain) of that animal ==> you need a lot of brain capacity to keep track of all the social relations. 
+
+Humans have the biggest brain size ratio and can have social groups of 100 to 150 individuals. This social group has a social hierarchy. If you're dominant, you need social skills to define the rules and make others follow them. If you're non-dominant, you use your social skills to mitigate those rules, form alliances, .... Most people are both dominant and non-domninant depending on the context.
 
 #### Theory of mind
 This is the capacity to represent & manipulate the internal representations in the mind of others (= recognize and predict others thougths)
