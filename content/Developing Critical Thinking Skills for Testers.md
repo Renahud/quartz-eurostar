@@ -5,6 +5,7 @@ alias: ["Tutorial B", "Developing Critical Thinking Skills for Testers - Andrew 
 Notes by [[people/Jana]]
 
 Speaker: Andrew Brown
+
 [Official introduction](https://conference.eurostarsoftwaretesting.com/event/2022/developing-critical-thinking-skills-for-testers/)
 
 ## Confirmation Bias
@@ -14,6 +15,7 @@ We can mitigate this bias by coming up with multiple alternative hypotheses befo
 
 Excersises to illustrate this bias:
 - discover the rule: 2,4,6
+	
 - discover the rule2: 2,4,8
 
 ## Information Bias
@@ -21,8 +23,16 @@ We tend to seek out information even if the result of a test does not provide us
 
 We should try to run only diagnostic tests and ask ourselves if the information we get is actually diagnostic about the rule we're testing.
 
-Exercises to illustrate:
-- draw balls from urn (probability of being urn A)
+Exercise to illustrate:
+>There are 2 urns, that both contains100 balls, with a various combination of red (R) and white (W) balls.
+| urn A | urn B |
+| - | - |
+|70 W / 30 R | 70 R / 30 W |
+Someone chooses 1 of the 2 urns and draws a random number of balls from it.
+| drawing | W | R | probability of being urn A (%) |
+| - | - | - | - |
+| 1st |  2 | 1  | ? |
+After this first drawing you write down your guess of the probabilty of the selected urn being urn A. The person will continue drawing balls from the urn and you will alter your probabilty based on the colour of the balls drawn.
 
 ## Indicative and deontic reasoning
 Our logic is not always rational. As humans we're much better at deontic reasoning than indicative reasoning.
@@ -31,21 +41,23 @@ Our logic is not always rational. As humans we're much better at deontic reasoni
 = Pure logic/abstract reasoning => true/false
 
 Exercise to illustrate:
-4  cards with a letter on one side and a number on the other: 
-A		B		4		7
-rule: if it's a vowel, it should always have a an even number on the other side
+4  cards with a letter on one side and a number on the other 
+| A | B | 4 | 7 |
+| - | - |-|-|
+RULE: if it's a vowel, it should always have an even number on the other side
 => which card(s) do you turn to test the rule?
 
 ### Deontic Reasoning
 = Reasoning about permissions, obligations, prohibitions => social rules
 
 Exercise to illustrate:
-- 4 cards with an age on one side and a drink on the other: 
-			17		25		coke		beer
-			rule: if you're under 18, you can't drink alcohol
-			=> which card(s) do you turn to test the rule?
+4 cards with an age on one side and a drink on the other: 
+| 17 | 25 | coke | beer |
+| - | - | - | - |
+RULE: if you're under 18, you can't drink alcohol
+=> which card(s) do you turn to test the rule?
 
-The first exercise (letter & numbers) is a lot harder than the second one (age & drinks). That's because humans are very good at social reasoning. This is linked with dominance theory and theory of mind.
+The first exercise (letter & numbers) is a lot harder than the second one (age & drinks), although the logic is the same. That's because humans are very good at social reasoning. This is linked with dominance theory and theory of mind.
 
 #### Dominance theory
 The brain size of animals (size of the frontal cortex in relation to the rest of the brain) is linked with the size of the social group of that animal ==> you need a lot of brain capacity to keep track of all the social relations. 
@@ -87,7 +99,7 @@ Exercise to illustrate:
 Sometimes a test/experiment yields more information than we realise, a test can give us both information about what we test and what we don't test. We should be creative in finding solutions to testing problems.
 
 Exercise to illustrate:
-- 12 weights problem: you have a scale and 12 similar objects of which 11 have the exact same weight and 1 is either heavier or lighter (this is unknown). You have to identify the object with the different weight and know if it's lighter or heavier in the least possible weighings. 
+> 12 weights problem: you have a scale and 12 similar objects of which 11 have the exact same weight and 1 is either heavier or lighter (this is unknown). You have to identify the object with the different weight and know if it's lighter or heavier in the least possible weighings. 
 
 Spending a lot of time to find the most elegant/ideal solution to test something (f. ex. in the least amount of steps) might be too time consuming. If we can get the same result faster via brute force, this might be preferred, especially when the cost of running a test is low. When we have only 1 chance to run a test, or the cost or consequences of running the test are high, the most elegant solution might be better.
 

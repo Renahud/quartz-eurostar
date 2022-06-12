@@ -8,7 +8,7 @@ Notes by [[people/Jana]]
 
 ## Problems
 
-14 common reasons software projects fail (according to Forbes)
+14 common reasons software projects fail (according to Forbes):
 - not understanding the needs of the business
 - lack of clarity and execution strategy
 - not starting with end customer
