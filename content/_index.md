@@ -25,8 +25,3 @@ Find our notes about the conference for each day here :
 - [Friday 10-06-2022](Friday%2010-06-2022.md)
 
 
-test pdf embeded 
-![[_attachments/Career-break.pdf]]
-
-Test pdf link [[_attachments/Career-break.pdf]]
-Test pdf link [markdown link](_attachments/Career-break.pdf)
