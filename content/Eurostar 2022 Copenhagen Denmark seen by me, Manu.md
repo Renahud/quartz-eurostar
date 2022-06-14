@@ -14,9 +14,6 @@ What the heck would a “data guy” from the BI-team, go to a Software Testing 
 
 Ps: I was accompanied by 4 Sfpd, “strangers” to me, but 4 days living together changed that! We rented a house at walk distance from the conference instead of having all our separate hotel room. https://abnb.me/Lbppe6yKNqb
 
-![Eurostar 2022 Copenhagen Denmark seen by me, Manu](images/Eurostar%202022%20Copenhagen%20Denmark%20seen%20by%20me,%20Manu.jpeg)
-
-![Eurostar 2022 Copenhagen Denmark seen by me, Manu-1](images/Eurostar%202022%20Copenhagen%20Denmark%20seen%20by%20me,%20Manu-1.jpeg)
 
 ![Eurostar 2022 Copenhagen Denmark seen by me, Manu-2](images/Eurostar%202022%20Copenhagen%20Denmark%20seen%20by%20me,%20Manu-2.jpeg)
 
