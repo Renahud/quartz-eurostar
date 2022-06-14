@@ -1,7 +1,10 @@
+---
+title: "Eurostar 2022 Copenhagen Denmark seen by me, Manu"
+---
+[[people/Emmanuel]]
+
 # Eurostar 2022 Copenhagen Denmark seen by me, Manu
 
-[[people/Emmanuel]]
-**# Eurostar 2022 Copenhagen Denmark seen by me, Manu**
 
 ***EuroSTAR**** stands for ***Euro***pean ***S***oftware ***T***esting ***A***nalysis & ***R***eview.
 
