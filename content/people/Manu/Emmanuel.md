@@ -18,6 +18,9 @@ What the heck would a “data guy” from the BI-team, go to a Software Testing 
 
 Ps: I was accompanied by 4 Sfpd, “strangers” to me, but 4 days living together changed that! We rented a house at walk distance from the conference instead of having all our separate hotel room. https://abnb.me/Lbppe6yKNqb
 
-![[people/Pasted image 20220614134104.png]]
+Ps: whatever our role, we should try our best to be critical open minded observers and have the guts to act when our inner feelings push us to do so, which is the hardest part for me.
 
+― me
+
+￼
 --
