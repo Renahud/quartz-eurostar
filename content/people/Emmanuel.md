@@ -6,4 +6,4 @@ alias: [Manu]
 ![[_attachments/Eurostar2022-Copenhagen-bag.png]]
 
 2022-06-07 Day1 TutB
-![[people/Eurostar 2022 Copenhagen Denmark seen by me, Manu.pdf]]
+![[_attachments/Eurostar 2022 Copenhagen Denmark seen by me, Manu.pdf]]
