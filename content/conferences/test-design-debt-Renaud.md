@@ -1,6 +1,6 @@
 ---
 title: "What's your Test Design Debt ? Avoid the inevitable!"
-tags: [Renaud, draft]
+tags: [Renaud]
 ---
 
 # What's your Test Design Debt ? Avoid the inevitable!
@@ -75,7 +75,7 @@ Evaluate your exising testcases, should they be documented ?
 	How are they documented
 
 The execution order shoudl be externalized from the test
-1 test 1 goal
+**1 test ->  1 goal**
 Creating a blueprint of the test:
 - create a gold standard test case with all happy path
 - split the test for each verification

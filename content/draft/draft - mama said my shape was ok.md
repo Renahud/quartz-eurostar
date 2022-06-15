@@ -15,17 +15,16 @@ by _Jihad Ghandour_
 	- seen as better than I
 - X
 	- Knows a lot about one topic
-	- Is a string leader
+	- Is also a strong leader
 
 ## Concerns
 
-- Bad requirements
-	- ambiguous
-= > same for the letters, descriptions are vague, hard to know where you fit
+These definitions are like _bad requirements_ :
 
-Only exist by comparison, they are relative.
+- They're **ambiguous**: the descriptions are vague, it maked it hard to know where you fit.
+- They only exist by comparison, they are relative.
 
-counter example : **Tetris** => need all shapes (the I is the best one there)
+A counter example : **Tetris** => need all shapes (the I is the best one there)
 
 Lack of context, do we need those skills ?
 
