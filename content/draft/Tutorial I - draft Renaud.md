@@ -5,7 +5,7 @@ tags:
 - draft
 ---
 
-tutorial by _Pathfinder_, [Lien vers les slides]()
+tutorial by _Pathfinder_
 
 ## What is simplification ?
 

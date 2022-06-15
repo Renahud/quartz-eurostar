@@ -20,5 +20,6 @@ title: "Wednesday 08-06-2022"
 
 [[draft/draft - mama said my shape was ok]]
 
+[[draft/draft-Solving software-system-thinking]]
 
 
