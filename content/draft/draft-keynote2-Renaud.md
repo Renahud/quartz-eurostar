@@ -4,8 +4,6 @@ tags:
 - Renaud
 - Draft
 ---
-[[people/Renaud]]
-
 
 # Testing, Engeneering, Tools & Futures
 by *Paul Gerrard*
