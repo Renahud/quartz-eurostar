@@ -1,6 +1,7 @@
 ---
 title: "Tutorial  B"
 alias: ["Tutorial B", "Developing Critical Thinking Skills for Testers - Andrew Brown"]
+tags: [Jana]
 ---
 Notes by [[people/Jana]]
 

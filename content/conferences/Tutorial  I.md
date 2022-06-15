@@ -1,7 +1,7 @@
 ---
-title: "Tutorial  I"
+title: "Tutorial I - Simplicity: Distilling and Refining Test Communication"
 alias: ["Tutorial I", "Simplicity: Distilling and Refining Test Communication"]
-authors: [[[people/Renaud]],[[people/Manon]]]
+tags: [Renaud,Manon]
 ---
 
 ## Simplicity: Distilling and Refining Test Communication

@@ -1,8 +1,7 @@
 ---
 title: "draft - mama said my shape was ok"
+tags: [Renaud]
 ---
-[[people/Renaud]]
-
 
 # Mama said my shape was Okay
 

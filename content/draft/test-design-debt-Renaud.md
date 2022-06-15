@@ -1,8 +1,8 @@
 ---
 title: "What's your Test Design Debt ? Avoid the inevitable!"
+tags: [Renaud, draft]
 ---
 
-[[people/Renaud]]
 # What's your Test Design Debt ? Avoid the inevitable!
 by _Wim Decoutere_
 

@@ -1,7 +1,9 @@
 ---
 title: "Keynote Michael Bolton - Lost in transformation - Renaud"
+tags: 
+- Renaud
+- Keynote
 ---
-[[people/Renaud]]
 # Keynote : Lost in transformation
 by _Michael Bolton_
 

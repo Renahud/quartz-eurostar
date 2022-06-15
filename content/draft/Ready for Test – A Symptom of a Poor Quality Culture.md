@@ -1,5 +1,7 @@
 ---
 title: "Ready for Test – A Symptom of a Poor Quality Culture - Thomas Shipley"
+tags:
+- Jana
 ---
 
 [Official introduction](https://conference.eurostarsoftwaretesting.com/event/2022/ready-for-test-a-symptom-of-a-poor-quality-culture/)

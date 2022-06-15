@@ -1,7 +1,8 @@
 ---
 title: "Defects dont kill you, they make you stronger"
+tags:
+- Renaud
 ---
-[[people/Renaud]]
 
 
 ### The process

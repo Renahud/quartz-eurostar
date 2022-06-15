@@ -1,7 +1,9 @@
 ---
 title: "Saving Software industry problems by applying 'System Thinking' to ourselves"
+tags:
+- Renaud
+- Draft
 ---
-[[people/Renaud]]
 # Saving Software industry problems by applying 'System Thinking' to ourselves
 by _Andrew Brown_
 

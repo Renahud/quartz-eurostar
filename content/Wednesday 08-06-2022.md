@@ -3,11 +3,11 @@ title: "Wednesday 08-06-2022"
 ---
 ## Notes
 
-[[Keynote 1]]
+[[conferences/Keynote 1]]
 
-[[Thanks, I hate It - Being grateful for failure]]
+[[conferences/Thanks, I hate It - Being grateful for failure]]
 
-[[Take Charge! Unbend yourself back into action]]
+[[conferences/Take Charge! Unbend yourself back into action]]
 
 ## Drafts
  [Keynote 1 (live notes by Manon)](draft/Keynote%201%20Manon.md)

@@ -1,5 +1,6 @@
 ---
 title: "Tutorial I - Manon"
+tags: [Manon]
 ---
 
 ## Contents

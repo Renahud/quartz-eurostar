@@ -1,7 +1,8 @@
 ---
 title: "Eurostar 2022 Copenhagen Denmark seen by me, Manu"
+tags: 
+- Manu
 ---
-[[people/Manu/Emmanuel]]
 
 # Eurostar 2022 Copenhagen Denmark seen by me, Manu
 

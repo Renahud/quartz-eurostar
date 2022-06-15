@@ -1,5 +1,6 @@
 ---
 title: "Take Charge! Unbend yourself back into action - Brijesh Deb"
+tags: [Jana]
 ---
 Notes by [[people/Jana]]
 

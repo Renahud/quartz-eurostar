@@ -1,5 +1,6 @@
 ---
 title: "The 7Ps Rule; Proper Planning & Preparation Prevents P... Performance - Søren Wassard"
+tags: [Jana]
 ---
 
 Notes by [[people/Jana]]

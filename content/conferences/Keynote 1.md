@@ -1,5 +1,12 @@
 ---
 title: "Keynote : My Essence of Testing - Understanding Relations"
+tags: 
+- Renaud
+- Manon
+- Jana
+- Virginie
+- Manu
+- Keynote
 ---
 
 # Keynote : My Essence of Testing - Understanding Relations

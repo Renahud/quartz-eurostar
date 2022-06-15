@@ -1,5 +1,6 @@
 ---
-title: "keynote - drawing lines around the fog - Renaud"
+title: "keynote - drawing lines around the fog"
+tags: [Renaud, keynote]
 ---
 
 # Keynote : Drawing lines around the fog

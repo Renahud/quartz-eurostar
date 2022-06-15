@@ -1,7 +1,8 @@
 ---
 title: "Waterfall Testing to Agile QA"
 date: "09/06/2022 15:32"
-author: "Manon"
+tags: 
+- "Manon"
 ---
 
 ## The scene

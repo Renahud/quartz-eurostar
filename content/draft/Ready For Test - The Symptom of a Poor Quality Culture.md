@@ -1,7 +1,8 @@
 ---
 title: ""
 date: "10/06/2022 10:02"
-author: "Manon"
+tags: 
+- "Manon"
 ---
 
 ## Three ideas

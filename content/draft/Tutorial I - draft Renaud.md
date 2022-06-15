@@ -1,5 +1,8 @@
 ---
 title: "Tutorial I - Renaud"
+tags:
+- Renaud
+- draft
 ---
 
 tutorial by _Pathfinder_, [Lien vers les slides]()

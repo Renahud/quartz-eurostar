@@ -1,6 +1,6 @@
 ---
-title: "Emmanuel"
-alias: [Manu]
+title: "Manu"
+alias: [Emmanuel]
 ---
 2022-06-07 Day1 CheckIn
 ![[_attachments/Eurostar2022-Copenhagen-bag.png]]
@@ -24,3 +24,4 @@ Ps: whatever our role, we should try our best to be critical open minded observe
 
 ￼
 --
+My notes : [list](/tags/Manu)

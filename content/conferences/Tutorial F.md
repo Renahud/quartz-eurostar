@@ -1,9 +1,8 @@
 ---
 title: "Tutorial F - From Business Workflows to Automated Tests"
 alias: ["From Business Workflows to Automated Tests", "Tutorial F"]
+tags: [Renaud]
 ---
-Notes by [Renaud](people/Renaud.md)
-
 
 Tutorail By _Dr Anne Kramer_,  using [Yest](https://marketplace.atlassian.com/apps/1221359/yest-agile-test-design-automation)
 (Yest has a jira integration)

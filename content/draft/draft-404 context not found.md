@@ -1,7 +1,7 @@
 ---
 title: "draft-404 context not found"
+tags: [Renaud]
 ---
-[[people/Renaud]]
 
 Talk by _Chris Armstrong_
 

@@ -1,7 +1,7 @@
 ---
 title: "Drawing Lines around the fog"
 date: "09/06/2022 13:49"
-author: "Manon"
+tags: ["Manon"]
 ---
 
 # Thursday, Keynote #2

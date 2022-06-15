@@ -1,6 +1,7 @@
 
 ---
 title: "Thanks, I hate It: Being grateful for failure - Dylan Lacey"
+tags: [Jana]
 ---
 
 Notes by [[people/Jana]]

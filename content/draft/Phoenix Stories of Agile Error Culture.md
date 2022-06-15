@@ -1,7 +1,8 @@
 ---
 title: "Phoenix Stories of Agile Error Culture"
 date: "10/06/2022 09:01"
-author: "Manon"
+tags: 
+- "Manon"
 ---
 
 > *"Our greatest glory is not in never falling, but in rising every time we fall" - Confucius*

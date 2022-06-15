@@ -1,5 +1,8 @@
 ---
 title: "draft-keynote2-Renaud"
+tags: 
+- Renaud
+- Draft
 ---
 [[people/Renaud]]
 

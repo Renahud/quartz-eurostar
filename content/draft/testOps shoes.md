@@ -1,5 +1,8 @@
 ---
 title: "Put on your TestOps shoes"
+tags:
+- Renaud
+- draft
 ---
 
 

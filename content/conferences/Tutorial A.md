@@ -1,6 +1,7 @@
 ---
 title: "Tutorial A"
 alias: ["Shaping Testing – A Simulation in Scrum", "Tutorial A"]
+tags: [Virginie]
 ---
 Notes by [Virginie](people/Virginie.md)
 

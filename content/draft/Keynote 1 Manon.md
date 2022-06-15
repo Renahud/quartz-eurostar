@@ -1,6 +1,7 @@
 ---
 title: "Keynote 1 : My Essence of Testing - Understanding Relations"
 date: "08/06/2022 09:06"
+tags: [Manon]
 ---
 
 > Conference theme: ***[[shaping testing]]***
