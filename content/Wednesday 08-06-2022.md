@@ -14,7 +14,7 @@ title: "Wednesday 08-06-2022"
 
 [[draft/draft-keynote-renaud]]
 
-[[draft/Defects dont kill you]]
+[[conferences/Defects dont kill you]]
 
 [[draft/draft-404 context not found]]
 
