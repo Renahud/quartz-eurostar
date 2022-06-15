@@ -38,7 +38,7 @@ New quality attributes:
 If we externalize expertise, we increase the feedback loop
 
 ### The [[shaping testing|shape]] of teams will have to change
-- We'll still need specialists. Nobody can have all the deep knowledge that we need (UX, security, etc.)
+- We'll still need specialists. Nobody can have all the deep knowledge that we need ([[UX]], security, etc.)
 - We need new ways of collaborating
 	- Teams doing day to day activities and being coached/helped by experts
 
@@ -57,7 +57,7 @@ But not enough on its own.
 
 > It is goddamn hard to work with other people.
 
-Invidividuals with a collective goals -> Friction
+Invidividuals with a collective goals -> [[Friction]]
 Friction is incraesed when there are more decision makers involved, and in changing environments
 
 There is no way to get rid of friction.

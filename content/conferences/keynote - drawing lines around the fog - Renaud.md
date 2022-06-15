@@ -1,7 +1,6 @@
 ---
 title: "keynote - drawing lines around the fog - Renaud"
 ---
-[[people/Renaud]]
 
 # Keynote : Drawing lines around the fog
 by _Alexandra Schladebeck_
@@ -13,12 +12,15 @@ or
 
 #### Quality will become even more important, and we'll screw it up
 
- Machine learning biased
- Racist chatbots
- Problems with self-driving cars
- things are getting exponentially more complex and we might not be prepared to prenvent the worst of it
- The pressure will probably be too high for the testers to be able to hold their ground enough to correct the state of things
-> "thnigs you do quickly are those that stay the longer"
+ Exemples of current quality challenges :
+ - Machine learning biased
+ - Racist chatbots
+ - Problems with self-driving cars
+ 
+ Things are getting exponentially more complex and we might not be prepared to prenvent the worst of it.
+ The pressure will probably be too high for the testers to be able to hold their ground enough to improve the quality of some of the crucial software technologies that are coming.
+
+> Things you do quickly are those that stay the longer.
 
 #### Teams will have even more to do
 New quality attributes :
@@ -46,15 +48,15 @@ We still need to be carefull of silos.
 
 Some of the new roles will be held by experts in a coaching role.
 
-=> [[books/Team topologies]]
+=> [[books/Team topologies]] #BookRef 
 
 ##### Comb shaped teams
 Multiple specialities
--> getting better at learning how to learn
+-> getting better at learning how to learn.
 
 Devs not only develop
 Testers do more than testing
-What about UX ?  open question
+What about [[UX]] ?  open question
 
 Cameleons > chimeras
 
@@ -66,7 +68,7 @@ Automation is not the only option though.
 
 #### We need to understand friction
 
-Friction : book:  [[The Art of Action]] (Stephen Bungay) #BookRef
+[[Friction]] : book:  [[The Art of Action]] (Stephen Bungay) #BookRef
 
 Friction isn't avoidable.
 
