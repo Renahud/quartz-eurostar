@@ -1,6 +1,6 @@
 ---
 title: "UX"
-alias ["user experience"]
+alias: ["user experience"]
 ---
 
 ## User Experience
