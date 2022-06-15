@@ -12,7 +12,7 @@ How we react when mistakes happen, what we learn from them
 ## Summary
 
 - Meaning of agile error culture
-- Shaping conditions on the way there
+- [[shaping testing|Shaping]] conditions on the way there
 - How to learn from things that go wrong
 
 ## Making mistakes
