@@ -1,7 +1,7 @@
 ---
 title: "Chaos engeneering using Docker compose"
 ---
-[[people/Renaud]]
+
 ## Chaos engeneering using Docker compose
 By _Richard Rostad_
 
@@ -31,7 +31,7 @@ You can include some chaos engineering tests inside a pipeline to ensure a consi
 This can be really useful in a microservice environment to make sure your service can always serve it's core purpose all by itself.
 
 
-sidenote: tests servers should run on synthetic data taylord to match real world expectations. (using AI can help ?)
+sidenote: tests servers should run on synthetic data taylored to match real world expectations. (using AI can help ?)
 
 ### Side notes
 

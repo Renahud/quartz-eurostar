@@ -11,7 +11,7 @@ or
 
 ## Predictions
 
-#### Quality will become even more important, and w'ell screw it up
+#### Quality will become even more important, and we'll screw it up
 
  Machine learning biased
  Racist chatbots
