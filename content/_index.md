@@ -24,4 +24,4 @@ Find our notes about the conference for each day here :
 - [Thursday 09-06-2022](Thursday%2009-06-2022.md)
 - [Friday 10-06-2022](Friday%2010-06-2022.md)
 
-[Books](/tags/books)
+[Books](/tags/book)
