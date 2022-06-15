@@ -48,7 +48,7 @@ We still need to be carefull of silos.
 
 Some of the new roles will be held by experts in a coaching role.
 
-=> [[books/Team topologies]] #BookRef 
+=> [[books/Team topologies]]
 
 ##### Comb shaped teams
 Multiple specialities
@@ -68,7 +68,7 @@ Automation is not the only option though.
 
 #### We need to understand friction
 
-[[Friction]] : book:  [[The Art of Action]] (Stephen Bungay) #BookRef
+[[Friction]] : [[books/The Art of Action]] (Stephen Bungay)
 
 Friction isn't avoidable.
 

@@ -63,7 +63,7 @@ Making serendipity happen :
 - some models are not visible
 - diversity is good (more views of the subject)
 
-Modeling resource : [[books/SFDIPOT]]
+Modeling resource : [[SFDIPOT]]
 
 ## Binary disease
 A lot of tools are binary : pass/fail
