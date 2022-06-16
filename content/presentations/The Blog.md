@@ -20,7 +20,7 @@
 
 - more incentive to take notes
 - Longer lasting
-- A sharing platfform for our colleagues
+- A sharing platform for our colleagues
 
 ---
 ### Setup
@@ -34,9 +34,9 @@
 
 #### 1. Draft
 3 profiles :
-- The nerd : in Obsidian, 1 file / person / conference (_Manon, Renaud_)
-- The granny : pen and paper (_Jana, Virginie_)
-- The hipster : Apple notes on iphone (_Manu_)
+- **The nerd** : in Obsidian, 1 file / person / conference (_Manon, Renaud_)
+- **The granny** : pen and paper (_Jana, Virginie_)
+- **The hipster** : Apple notes on iphone (_Manu_)
 
 ---
 ### _3_ stages of note taking
