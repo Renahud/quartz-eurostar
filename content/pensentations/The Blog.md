@@ -55,7 +55,11 @@
 
 - Extracting concepts
 - Linking conferences via common concepts
-- Enrich with other sources
+- Enriching with other sources
 
 ---
 # **Thank you**
+
+Please visit the blog and give _feed-back_ !
+
+https://renahud.github.io/quartz-eurostar/
