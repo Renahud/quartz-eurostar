@@ -30,7 +30,7 @@
  - [Github](https://github.com/) : source control + hosting 
 
 ---
-### 3 stages of note taking
+### _3_ stages of note taking
 
 #### 1. Draft
 3 profiles :
@@ -39,17 +39,18 @@
 - The hipster : Apple notes on iphone (_Manu_)
 
 ---
-### 3 stages of note taking
+### _3_ stages of note taking
 
 #### 2. Refining/merging
 
+- Transfering notes into Obsidian
 - Rewriting the bullets into digestible text
 - Merging the notes of multiple people for a single conference
 - Organising the blog
 - Fixing typos
 
 ---
-### 3 stages of note taking
+### _3_ stages of note taking
 
 #### 3. Concepts & links
 
@@ -63,3 +64,5 @@
 Please visit the blog and give _feedback_ !
 
 https://renahud.github.io/quartz-eurostar/
+
+Thank you for your attention.
