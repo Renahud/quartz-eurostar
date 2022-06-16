@@ -24,6 +24,8 @@ Find our notes about the conference for each day here :
 - [Thursday 09-06-2022](Thursday%2009-06-2022.md)
 - [Friday 10-06-2022](Friday%2010-06-2022.md)
 
-[Books](/tags/book)
+## Books
+ List of books recommended duringthe conference : [Books](/tags/book)
 
-[Presentations](/presentations/_index)
+## Presentations
+- [[presentations/The Blog]]
