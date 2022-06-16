@@ -4,7 +4,7 @@ author: [Renaud, Manon]
 ---
 
 
-## Chaos engeneering using Docker compose
+## Chaos engineering using Docker compose
 By _Richard Rostad_
 
 **[[Chaos Engineering]]** is a form of  ***Testing***

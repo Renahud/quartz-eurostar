@@ -5,7 +5,7 @@ tags:
 - Draft
 ---
 
-# Testing, Engeneering, Tools & Futures
+# Testing, Engineering, Tools & Futures
 by *Paul Gerrard*
 
 ## Devops
@@ -28,7 +28,7 @@ Life was simpler back then :
 
 software development is not the same as engineering
 
-Engeneering :
+Engineering :
 - application of science & math 
 - drawing boards
 - machines:

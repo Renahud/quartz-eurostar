@@ -1,9 +1,9 @@
 ---
-title: "Chaos engeneering using Docker compose"
+title: "Chaos engineering using Docker compose"
 tags: [Renaud, draft]
 ---
 
-## Chaos engeneering using Docker compose
+## Chaos engineering using Docker compose
 By _Richard Rostad_
 
 **Chaos Engineering**: A systematic approach to pushing a system encironment outside its comfort zone in order to leard about the system(s) under test and discover potential problems before they become actual problems.
