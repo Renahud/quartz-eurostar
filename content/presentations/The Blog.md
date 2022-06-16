@@ -58,7 +58,7 @@
 - Enriching with other sources
 
 ---
-# **Thank you**
+# **Questions _?_**
 
 Please visit the blog and give _feedback_ !
 
