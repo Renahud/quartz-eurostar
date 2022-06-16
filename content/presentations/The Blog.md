@@ -34,7 +34,7 @@
 
 #### 1. Draft
 3 profiles :
-- The nerd : 1 file / person / conference (_Manon, Renaud_)
+- The nerd : in Obsidian, 1 file / person / conference (_Manon, Renaud_)
 - The granny : pen and paper (_Jana, Virginie_)
 - The hipster : Apple notes on iphone (_Manu_)
 
