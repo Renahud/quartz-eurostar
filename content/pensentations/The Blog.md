@@ -60,6 +60,6 @@
 ---
 # **Thank you**
 
-Please visit the blog and give _feed-back_ !
+Please visit the blog and give _feedback_ !
 
 https://renahud.github.io/quartz-eurostar/
