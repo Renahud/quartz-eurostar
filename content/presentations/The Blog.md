@@ -36,7 +36,7 @@
 3 profiles :
 - **The nerd** : in Obsidian, 1 file / person / conference (_Manon, Renaud_)
 - **The granny** : pen and paper (_Jana, Virginie_)
-- **The hipster** : Apple notes on iphone (_Manu_)
+- **The hipster** : Apple Notes on iPhone (_Manu_)
 
 ---
 ### _3_ stages of note taking
