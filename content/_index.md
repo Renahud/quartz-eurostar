@@ -12,7 +12,7 @@ Members of the delegation:
 - [Renaud](people/Renaud.md)
 - [Jana](people/Jana.md)
 - [Manon](people/Manon.md)
-- [[people/Manu/Emmanuel]]
+- [Manu](people/Manu/Emmanuel)
 
 
 ## Notes by day
