@@ -16,14 +16,7 @@ What the heck would a “data guy” from the BI-team, go to a Software Testing 
 Ps: I was accompanied by 4 Sfpd, “strangers” to me, but 4 days living together changed that! We rented a house at walk distance from the conference instead of having all our separate hotel room. https://abnb.me/Lbppe6yKNqb
 
 
-![Eurostar 2022 Copenhagen Denmark seen by me, Manu-2](images/Eurostar%202022%20Copenhagen%20Denmark%20seen%20by%20me,%20Manu-2.jpeg)
-
-![Eurostar 2022 Copenhagen Denmark seen by me, Manu-3](images/Eurostar%202022%20Copenhagen%20Denmark%20seen%20by%20me,%20Manu-3.jpeg)
-
-![Eurostar 2022 Copenhagen Denmark seen by me, Manu-4](images/Eurostar%202022%20Copenhagen%20Denmark%20seen%20by%20me,%20Manu-4.jpeg)
-
 Current link to the conference, 2023, in Antwerp, Belgium!
-
 https://conference.eurostarsoftwaretesting.com/
 
 I was a bit reluctant and skeptic but finally very pleased having had the privilege to assist at this wonderful community event.
