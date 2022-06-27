@@ -2,6 +2,10 @@
 title: "Keynote Michael Bolton - Lost in transformation - Renaud"
 tags: 
 - Renaud
+- Manon
+- Jana
+- Virginie
+- Manu
 - Keynote
 ---
 # Keynote : Lost in transformation

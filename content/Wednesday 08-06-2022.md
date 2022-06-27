@@ -3,7 +3,7 @@ title: "Wednesday 08-06-2022"
 ---
 ## Notes
 
-[[conferences/Keynote 1]]
+[[conferences/Keynote 1 Richard Edgreen - My Essence of Testing]]
 
 [[conferences/Thanks, I hate It - Being grateful for failure]]
 
