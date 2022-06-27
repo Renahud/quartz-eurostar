@@ -26,19 +26,14 @@ I will end this short intro of myself with this quote:
 
 Ps: whatever our role, we should try our best to be critical open minded observers and have the guts to act when our inner feelings push us to do so, which is the hardest part for me.
 
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/hugo
+
+
 [!!! still a draft !!! 
 Eurostar 2022 Copenhagen Denmark seen by me, my notes, Manu](conferences/Eurostar%202022%20Copenhagen%20Denmark%20seen%20by%20me,%20Manu)
 
-[Home of Blog]([https://renahud.github.io/quartz-eurostar/](https://renahud.github.io/quartz-eurostar/))
 
 ― me
 ![[people/Manu/images/Eurostar 2022 Copenhagen Denmark seen by me, Manu-4.jpeg]]
 ![[people/Manu/images/My BIO -.jpeg]]
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/hugo
