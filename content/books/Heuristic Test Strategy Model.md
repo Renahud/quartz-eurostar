@@ -7,3 +7,4 @@ tags:
 # Heuristic Test Strategy Model
 by *James'Bach's* 
 
+Contains more info about SFDIPOT.
