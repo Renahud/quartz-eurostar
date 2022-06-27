@@ -59,7 +59,7 @@ Graphical representations help identifying tests which is difficult to extract f
 ## The 7Ps rule
 "**P**roper **P**lanning & **P**reparation, **P**revents **P**… **P**oor **P**erformance"
 
-![_attachments/7ps A well-known fact.jpeg](app://local/Users/manusmac/Documents/GitHub/quartz-eurostar/content/_attachments/7ps%20A%20well-known%20fact.jpeg?1656243451551)
+![[7ps A well-known fact.jpeg]]
 
 What happens before a backlog is created, and how we can make sure to validate the solution upfront, for instance, by using pretotyping, personas, RAT (Riskiest Assumption Testing), Design Sprints and much more, before we start building it.
 “Seven Ps aren’t just useful for the big things: they are useful in everyday operations and can make your job much easier.
