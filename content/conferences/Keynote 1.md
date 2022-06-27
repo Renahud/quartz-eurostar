@@ -24,7 +24,7 @@ This is *his* essence of testing:
 > [!quote] Essence of testing
 > By understanding relations, you will among many things understand what is important, so you can do good testing (while also providing value in other ways)
 
-Testing is a samplig business because it's never finished. You can never say you've tested everything. Therefore, your way of sampling is crucial in testing. 
+Testing is a sampling business because it's never finished. You can never say you've tested everything. Therefore, your way of sampling is crucial in testing. 
 
 How the sampling is designed, executed, evaluated and reported can be decided by
 - other people
