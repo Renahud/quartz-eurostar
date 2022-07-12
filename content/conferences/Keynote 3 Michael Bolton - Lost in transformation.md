@@ -1,5 +1,5 @@
 ---
-title: "Keynote Michael Bolton - Lost in transformation - Renaud"
+title: "Keynote - Lost in transformation"
 tags: 
 - Renaud
 - Manon
