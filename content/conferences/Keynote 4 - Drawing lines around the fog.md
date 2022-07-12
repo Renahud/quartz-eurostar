@@ -1,6 +1,12 @@
 ---
 title: "keynote - drawing lines around the fog"
-tags: [Renaud, keynote]
+tags: 
+- Renaud
+- Manon
+- Jana
+- Virginie
+- Manu
+- Keynote
 ---
 
 # Keynote : Drawing lines around the fog

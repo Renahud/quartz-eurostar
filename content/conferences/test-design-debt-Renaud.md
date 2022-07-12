@@ -1,6 +1,8 @@
 ---
 title: "What's your Test Design Debt ? Avoid the inevitable!"
-tags: [Renaud]
+tags: 
+- Renaud
+- Track Talk
 ---
 
 # What's your Test Design Debt ? Avoid the inevitable!
